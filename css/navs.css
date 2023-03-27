@@ -1,0 +1,21 @@
+.home {
+  height: 2em;
+  width: auto;
+}
+
+.btnHablar {
+  background: #e5b14e;
+
+  font-family: "Inter";
+  font-style: normal;
+
+  text-align: center;
+
+  color: #171717;
+}
+
+.dropdown-item:hover {
+  text-decoration: none;
+  background-color: #171717;
+  color: aliceblue;
+}
